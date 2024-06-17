@@ -1,0 +1,18 @@
+path: C:\\Users\\rohai\\OneDrive\\Desktop\\College\\fyp\\datasets
+train: 
+  - addy-dataset/train/
+  - pcb-defect-dataset/train/
+val: 
+  - pcb-defect-dataset/val/
+  - addy-dataset/val/
+test: 
+  - pcb-defect-dataset/test/
+  - addy-dataset/test/
+
+names:
+  0: mouse_bite
+  1: spur
+  2: missing_hole
+  3: short
+  4: open_circuit
+  5: spurious_copper
